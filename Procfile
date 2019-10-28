@@ -1,1 +1,1 @@
-web: gunicorn Carol Resume:app
+web: gunicorn resume:app
